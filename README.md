@@ -38,7 +38,7 @@ I'm deeply interested in:
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### [SSOT-Centric Agentic Software Engineering Framework](https://github.com/eecheonwu/ssot-centric_framework)
 An **AI-native software development lifecycle model** that enables software engineering artifacts, AI planning systems, coding agents, testing agents, and continuous system evolution to operate from a shared system knowledge foundation (SSOT).
@@ -49,16 +49,6 @@ An **AI-native software development lifecycle model** that enables software engi
   - Intelligent coding and testing agents with self-evolving capabilities
   - SSOT-centric design enabling real-time system synchronization
   - Demonstrates AI-native software development practices
-
-### [AI-Native Software Engineering Toolkit](https://github.com/eecheonwu/ai-native-se-toolkit)
-A comprehensive toolkit providing reusable components, patterns, and utilities for building AI-native software systems with AI agents, requirement engineering, and intelligent testing.
-
-- **Tech Stack:** Python, Machine Learning, Software Testing, Architecture Patterns
-- **Highlights:**
-  - Modular, composable components for AI-native systems
-  - Best practices for agentic software architecture
-  - Requirement engineering utilities and patterns
-  - Intelligent testing frameworks for AI-driven applications
 
 ---
 
