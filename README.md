@@ -43,7 +43,7 @@ I'm deeply interested in:
 ### [SSOT-Centric Agentic Software Engineering Framework](https://github.com/eecheonwu/ssot_centric_framework)
 An **AI-native software development lifecycle model** that enables software engineering artifacts, AI planning systems, coding agents, testing agents, and continuous system evolution to operate from a shared system knowledge foundation (SSOT).
 
-- **Tech Stack:** Python, FastAPI, LLMs, Multi-Agent Architecture, Domain-Driven Design
+- **Tech Stack:** Agent Skills, MCP, LLMs, Multi-Agent Architecture, SSOT-Driven Design
 - **Highlights:** 
   - Unified knowledge repository for AI agents and engineering artifacts
   - Intelligent coding and testing agents with self-evolving capabilities
