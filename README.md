@@ -15,7 +15,7 @@ I'm deeply interested in:
 - 📋 **Requirement Engineering** - Translating complex needs into executable specifications
 - 🧪 **Software Testing** - Ensuring quality and reliability in AI-native systems
 
-- 🔭 Currently working on: **SSOT-Centric Agentic Software Engineering Framework** - An AI-native SDLC model enabling seamless collaboration between software engineering artifacts, AI planning systems, coding agents, and testing agents
+- 🔭 Currently working on: **SSOT-Centric Agentic Software Engineering Workflows** - An AI-native SDLC models enabling seamless collaboration between software engineering artifacts, AI planning systems, coding agents, and testing agents
 - 🌱 Learning: Advanced agentic architectures, multi-agent orchestration, and emergent AI behaviors
 - 💬 Ask me about: Agentic systems, AI-native software architecture, requirement engineering, or Python-based ML solutions
 - 📫 Reach out: [ec.echeonwu@gmail.com](mailto:ec.echeonwu@gmail.com)
