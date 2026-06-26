@@ -17,7 +17,7 @@ I'm deeply interested in:
 
 - 🔭 Currently working on: **SSOT-Centric Agentic Software Engineering Workflows** - AI-native SDLC models enabling seamless collaboration between software engineering artifacts, AI planning systems, coding agents, and testing agents
 - 🌱 Learning: Advanced agentic architectures, multi-agent orchestration, and emergent AI behaviors
-- 💬 Ask me about: Agentic systems, AI-native software architecture, requirement engineering, or Python-based ML solutions
+- 💬 Ask me about: Agentic systems, SSOT-Centric architectures for AI-native software systems, requirement engineering, feature change impact assessment or Python-based ML solutions
 - 📫 Reach out: [ec.echeonwu@gmail.com](mailto:ec.echeonwu@gmail.com)
 
 ---
