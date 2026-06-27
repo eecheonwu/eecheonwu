@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Emmanuel Chinyere Echeonwu
 
-Welcome to my GitHub profile! I'm passionate about **Agentic Software Engineering** and **AI Research**, focusing on building intelligent, self-evolving systems that bridge software engineering practices with cutting-edge AI capabilities.
+Welcome to my GitHub profile! I'm passionate about **Agentic Software Engineering** and **AI Research**, focusing on building intelligent, self-evolving systems that bridge software engineering practices with AI capabilities.
 
 ---
 
 ## 🚀 About Me
 
-I'm a software engineer and AI researcher specializing in **AI-native software architecture** and **agentic systems design**. My work centers on creating frameworks that enable AI agents, software engineering artifacts, and continuous system evolution to operate from a unified knowledge foundation.
+I'm a software engineer and AI researcher specializing in **AI-native software architecture** and **agentic systems design**. My work centers on creating frameworks that enable AI agents, software engineers, and automated systems to collaborate seamlessly in modern software development lifecycles.
 
 I'm deeply interested in:
 - 🤖 **Agentic Software Engineering** - Building AI-driven development lifecycles
@@ -15,7 +15,7 @@ I'm deeply interested in:
 - 📋 **Requirement Engineering** - Translating complex needs into executable specifications
 - 🧪 **Software Testing** - Ensuring quality and reliability in AI-native systems
 
-- 🔭 Currently working on: **SSOT-Centric Agentic Software Engineering Workflows** - AI-native SDLC models enabling seamless collaboration between software engineering artifacts, AI planning systems, coding agents, and testing agents
+- 🔭 Currently working on: **SSOT-Centric Agentic Software Engineering Workflows** - AI-native SDLC models enabling seamless collaboration between software engineering artifacts, AI planning systems, and autonomous agents
 - 🌱 Learning: Advanced agentic architectures, multi-agent orchestration, and emergent AI behaviors
 - 💬 Ask me about: Agentic systems, SSOT-Centric architectures for AI-native software systems, requirement engineering, feature change impact assessment or Python-based ML solutions
 - 📫 Reach out: [ec.echeonwu@gmail.com](mailto:ec.echeonwu@gmail.com)
@@ -38,10 +38,10 @@ I'm deeply interested in:
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### [SSOT-Centric Agentic Software Engineering Framework](https://github.com/eecheonwu/ssot_centric_framework)
-An **AI-native software development lifecycle model** that enables software engineering artifacts, AI planning systems, coding agents, testing agents, and continuous system evolution to operate from a shared system knowledge foundation (SSOT).
+An **AI-native software development lifecycle model** that enables software engineering artifacts, AI planning systems, coding agents, testing agents, and continuous system evolution to operate from a unified knowledge repository.
 
 - **Tech Stack:** Agent Skills, MCP, LLMs, Multi-Agent Architecture, SSOT-Driven Design
 - **Highlights:** 
@@ -49,6 +49,14 @@ An **AI-native software development lifecycle model** that enables software engi
   - Intelligent coding and testing agents with self-evolving capabilities
   - SSOT-centric design enabling real-time system synchronization
   - Demonstrates AI-native software development practices
+
+### 🔬 SSOT-Centric Workflow Research
+
+#### [SSOT-driven-feature-evolution](https://github.com/eecheonwu/SSOT-driven-feature-evolution)
+**Ongoing Research** - Exploring how SSOT principles can drive autonomous feature evolution and system adaptation in AI-native software development. This project investigates mechanisms for feature change propagation, impact assessment, and continuous system optimization through centralized truth sources.
+
+- **Research Focus:** Feature evolution, SSOT-driven design patterns, autonomous system adaptation
+- **Application:** Real-world case studies demonstrating SSOT benefits in scaling AI-native systems
 
 ---
 
@@ -79,7 +87,7 @@ An **AI-native software development lifecycle model** that enables software engi
 
 ## 🎯 Mission
 
-To advance the field of **Agentic Software Engineering** by creating frameworks, tools, and best practices that enable software systems to leverage AI capabilities for autonomous development, testing, and continuous evolution—all while maintaining quality, reliability, and human oversight.
+To advance the field of **Agentic Software Engineering** by creating frameworks, tools, and best practices that enable software systems to leverage AI capabilities for autonomous development, testing, and continuous evolution while maintaining code quality and architectural coherence.
 
 ---
 
