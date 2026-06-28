@@ -33,9 +33,8 @@ I'm deeply interested in:
 **Languages & IDE:**
 `Python` • `Antigravity`, `VS Code`
 
-**DevOps & Tools:**
-`Docker` • `Git` • `CI/CD` • `GitHub Actions` • `Testing Frameworks` • `Prompt Engineering`
-
+**Tools:**
+• `Git` • `Testing Frameworks` • `Prompt Engineering`  • `Context Engineering`
 ---
 
 ## 📌 Featured Projects
