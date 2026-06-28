@@ -30,8 +30,8 @@ I'm deeply interested in:
 **Software Engineering:**
 `AI-Native Architecture` • `Requirement Engineering` • `Software Testing` • `System Design` • `Domain-Driven Design`
 
-**Languages & Frameworks:**
-`Python` • `FastAPI` • `LangChain` • `PyTorch` • `TensorFlow` • `Pydantic`
+**Languages & IDE:**
+`Python` • `Antigravity`, `VS Code`
 
 **DevOps & Tools:**
 `Docker` • `Git` • `CI/CD` • `GitHub Actions` • `Testing Frameworks` • `Prompt Engineering`
