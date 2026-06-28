@@ -34,7 +34,9 @@ I'm deeply interested in:
 `Python` • `Antigravity`, `VS Code`
 
 **Tools:**
-• `Git` • `Testing Frameworks` • `Prompt Engineering`  • `Context Engineering`
+
+ `Git` • `Testing Frameworks` • `Prompt Engineering`  • `Context Engineering`
+  
 ---
 
 ## 📌 Featured Projects
