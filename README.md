@@ -109,7 +109,7 @@ The SCSE research programme explores a fundamental hypothesis:
 
 Rather than treating requirements, architecture, implementation, testing, and operations as independent artifacts, SCSE models them as interconnected representations of a unified engineering knowledge system.
 
-This shift moves software engineering away from an **artifact-centric view** toward a **knowledge-centric discipline** capable of supporting autonomous and AI-native software development.
+This shift moves software engineering away from an **artifact-centric view** towards a **knowledge-centric discipline** capable of supporting autonomous and AI-native software development.
 
 ---
 
