@@ -45,7 +45,7 @@ I'm deeply interested in:
 
 ### The Central Hub
 
-#### [🏛️ SCSE Research Handbook](https://github.com/eecheonwu/scse-knowledge-base)
+#### [🏛️ SCSE Research Monograph](https://github.com/eecheonwu/scse-knowledge-base)
 **The Single Source of Truth for SCSE Research**
 
 This is the **authoritative research hub** for the entire SSOT-Centric Software Engineering (SCSE) research programme. It serves as the operational knowledge system governing:
