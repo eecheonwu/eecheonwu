@@ -1,4 +1,3 @@
-# Hey there! 👋 I'm Emmanuel Chinyere Echeonwu
 
 Welcome to my GitHub profile! I'm passionate about **Agentic Software Engineering** and **AI Research**, focusing on building intelligent, self-evolving systems that bridge software engineering practice with AI-native development paradigms.
 
