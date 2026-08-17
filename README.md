@@ -1,4 +1,4 @@
-# Eecheon Wu
+# Emmanuel Chinyere Echeonwu
 
 **AI Research Engineer & Software Architect**  
 Advancing Agentic Software Engineering through intelligent systems design, AI-native architectures, and comprehensive governance frameworks.
