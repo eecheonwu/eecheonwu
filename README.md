@@ -7,9 +7,17 @@ Advancing Agentic Software Engineering through intelligent systems design, AI-na
 
 ## 🚀 Featured Projects
 
-### 1. EIP MCP Server — Engineering Intelligence Platform Integration
+### 1. Engineering Intelligence Platform (EIP) — Platform for engineering governance & intelligence
 
-A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering Intelligence Platform (EIP)** — a modern governance and planning workspace for AI-driven software engineering.
+The **Engineering Intelligence Platform (EIP)** is a unified platform for engineering governance, planning, and AI-native workflows. Heavily under development and launching soon, EIP centralizes architecture, requirements, and decision records into a Single Source of Truth (SSOT) to enable automated task generation, governance, and real-time drift detection between specification and implementation. Documentation and a public repository will be added shortly — expect early access and integration guides when the project is published.
+
+**Repository**: (coming soon)
+
+---
+
+### 2. EIP MCP Server — Engineering Intelligence Platform Integration
+
+A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering Intelligence Platform (EIP)** — a modern governance and planning wor[...]
 
 **Repository**: [eecheonwu/eip-mcp-server](https://github.com/eecheonwu/eip-mcp-server)
 
@@ -64,9 +72,9 @@ Add to your Claude Desktop config (`~/Library/Application Support/Claude/claude_
 
 ---
 
-### 2. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
+### 3. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
 
-A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system for all engineering artifacts, enabling seamless human–AI collaboration.
+A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system[...]
 
 #### Core Projects
 
@@ -88,7 +96,7 @@ Workflow framework demonstrating how to evolve features through the SSOT lifecyc
 
 #### Key Concepts
 
-- **Single Source of Truth (SSOT)**: A unified, authoritative artifact (typically a Software Requirements Document + Architecture Design Record) that serves as the reference for all engineering work
+- **Single Source of Truth (SSOT)**: A unified, authoritative artifact (typically a Software Requirements Document + Architecture Design Record) that serves as the reference for all engineering wo[...]
 - **Drift Detection**: Real-time identification of divergence between specification and implementation
 - **Automated Task Generation**: AI-driven decomposition of high-level features into executable, well-scoped tasks
 - **Human–AI Collaboration**: Frameworks enabling developers and AI agents to work seamlessly together
@@ -128,7 +136,7 @@ Python • Git • VS Code • FastMCP • FastAPI • LLM APIs (Gemini, OpenAI,
 
 ## 🔬 Mission
 
-**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and design through implementation and testing — with the Single Source of Truth as the central coordinating structure.
+**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and desi[...]
 
 ---
 
