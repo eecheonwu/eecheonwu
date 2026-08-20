@@ -1,7 +1,7 @@
-# Emmanuel Chinyere Echeonwu
+# OVUNS.TECH
 
-**AI Research Engineer & Software Architect**  
-Advancing Agentic Software Engineering through intelligent systems design, AI-native architectures, and comprehensive governance frameworks.
+**AI-Native Engineering Platform & Governance Framework**  
+Building intelligent systems for modern software engineering through agentic architectures, Single Source of Truth (SSOT) frameworks, and human–AI collaboration.
 
 ---
 
@@ -9,7 +9,7 @@ Advancing Agentic Software Engineering through intelligent systems design, AI-na
 
 ### 1. Engineering Intelligence Platform (EIP) — Platform for engineering governance & intelligence
 
-The **Engineering Intelligence Platform (EIP)** is a unified platform for engineering governance, planning, and AI-native workflows. Heavily under development and launching soon, EIP centralizes architecture, requirements, and decision records into a Single Source of Truth (SSOT) to enable automated task generation, governance, and real-time drift detection between specification and implementation. Documentation and a public repository will be added shortly — expect early access and integration guides when the project is published.
+The **Engineering Intelligence Platform (EIP)** is a unified platform for engineering governance, planning, and AI-native workflows. Heavily under development and launching soon, EIP centralizes a[...]
 
 **Repository**: (coming soon)
 
