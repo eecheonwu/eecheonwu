@@ -38,34 +38,6 @@ The **EIP MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Windsu
 - ✅ **IDE-Agnostic**: Works seamlessly with Claude Desktop, Antigravity, Cursor, Windsurf, and any MCP-compatible IDE
 - ✅ **Framework**: Built on [FastMCP](https://github.com/jlowin/fastmcp) with Python 3.10+
 
-#### Quick Start
-
-```bash
-# Run the MCP server directly
-uvx --from git+https://github.com/eecheonwu/eip-mcp-server.git eip-mcp-server
-```
-
-#### IDE Configuration Example (Claude Desktop)
-
-Add to your Claude Desktop config (`~/Library/Application Support/Claude/claude_desktop_config.json` on macOS):
-
-```json
-{
-  "mcpServers": {
-    "eip-mcp-server": {
-      "command": "uvx",
-      "args": [
-        "-q",
-        "--from",
-        "git+https://github.com/eecheonwu/eip-mcp-server.git",
-        "eip-mcp-server"
-      ],
-      "env": {
-        "GEMINI_API_KEY": "your-api-key-here"
-      }
-    }
-  }
-}
 ```
 
 **Full documentation**: See the [EIP MCP Server README](https://github.com/eecheonwu/eip-mcp-server) for comprehensive installation, architecture, and usage details.
