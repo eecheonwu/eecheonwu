@@ -38,11 +38,8 @@ The **EIP MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Windsu
 - ✅ **IDE-Agnostic**: Works seamlessly with Claude Desktop, Antigravity, Cursor, Windsurf, and any MCP-compatible IDE
 - ✅ **Framework**: Built on [FastMCP](https://github.com/jlowin/fastmcp) with Python 3.10+
 
-```
 
 **Full documentation**: See the [EIP MCP Server README](https://github.com/eecheonwu/eip-mcp-server) for comprehensive installation, architecture, and usage details.
-
----
 
 ### 3. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
 
