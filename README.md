@@ -33,7 +33,7 @@ The **EIP MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Windsu
 #### Key Features
 
 - ✅ **Dual-Mode Architecture**: Stdio MCP interface for IDE agents + HTTP webhook listener for cloud-EIP interactions
-- ✅ **6 Core Tools**: Initialize SSOT, generate implementation/task/test/security plans, synchronize architecture
+- ✅ **5 Core Tools**: Initialize SSOT, generate implementation/task/test, synchronize architecture
 - ✅ **Zero-Setup Installation**: Run via `uvx` with no manual virtual environment management
 - ✅ **IDE-Agnostic**: Works seamlessly with Claude Desktop, Antigravity, Cursor, Windsurf, and any MCP-compatible IDE
 - ✅ **Framework**: Built on [FastMCP](https://github.com/jlowin/fastmcp) with Python 3.10+
