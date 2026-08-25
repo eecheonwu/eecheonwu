@@ -19,7 +19,7 @@ The **Engineering Intelligence Platform (EIP)** is a unified platform for engine
 
 A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering Intelligence Platform (EIP)** — a modern governance and planning wor[...]
 
-**Repository**: 
+**Repository**: [(https://github.com/eecheonwu/eip-mcp-server)]
 
 #### What It Does
 
