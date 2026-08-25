@@ -11,7 +11,7 @@ Building intelligent systems for modern software engineering through agentic arc
 
 The **Engineering Intelligence Platform (EIP)** is a unified platform for engineering governance, planning, and AI-native workflows. Heavily under development and launching soon, EIP centralizes a[...]
 
-**Repository**: 
+
 
 ---
 
