@@ -7,23 +7,23 @@ Building intelligent systems for modern software engineering through agentic arc
 
 ## 🚀 Featured Projects
 
-### 1. Engineering Intelligence Platform (EIP) — Platform for engineering governance & intelligence
+### 1. Engineering SSOT (ESSOT) — Platform for engineering governance & intelligence
 
-The **Engineering Intelligence Platform (EIP)** is a unified platform for engineering governance, planning, and AI-native workflows. Heavily under development and launching soon, EIP centralizes a[...]
+The **Engineering SSOT (ESSOT)** is a unified platform for engineering governance, planning, and AI-native workflows. Heavily under development and launching soon, ESSOT centralizes a[...]
 
 
 
 ---
 
-### 2. EIP MCP Server — Engineering Intelligence Platform Integration
+### 2. ESSOT MCP Server — Engineering SSOT Integration
 
-A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering Intelligence Platform (EIP)** — a modern governance and planning wor[...]
+A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering SSOT (ESSOT)** — a modern governance and planning wor[...]
 
-**Repository**: [(https://github.com/eecheonwu/eip-mcp-server)]
+**Repository**: [(https://github.com/eecheonwu/essot-mcp-server)]
 
 #### What It Does
 
-The **EIP MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Windsurf, Antigravity, and others) to natively interact with your EIP project by:
+The **ESSOT MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Windsurf, Antigravity, and others) to natively interact with your ESSOT project by:
 
 - **Synchronizing architectural intent** between local development and cloud-based governance
 - **Maintaining a Single Source of Truth (SSOT)** across planning, design, and implementation
@@ -32,7 +32,7 @@ The **EIP MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Windsu
 
 #### Key Features
 
-- ✅ **Dual-Mode Architecture**: Stdio MCP interface for IDE agents + HTTP webhook listener for cloud-EIP interactions
+- ✅ **Dual-Mode Architecture**: Stdio MCP interface for IDE agents + HTTP webhook listener for cloud-ESSOT interactions
 - ✅ **5 Core Tools**: Initialize SSOT, generate implementation/task/test, synchronize architecture
 - ✅ **Zero-Setup Installation**: Run via `uvx` with no manual virtual environment management
 - ✅ **IDE-Agnostic**: Works seamlessly with Claude Desktop, Antigravity, Cursor, Windsurf, and any MCP-compatible IDE
