@@ -7,19 +7,31 @@ Building intelligent systems for modern software engineering through agentic arc
 
 ## 🚀 Featured Projects
 
-### 1. Engineering SSOT (ESSOT) — Platform for engineering governance & intelligence
+### 1. Softfact — The AI Architectural Platform
 
-The **Engineering SSOT (ESSOT)** is a unified platform for engineering governance, planning, and AI-native workflows. **Now launched and accessible at [https://essot.space](https://essot.space)!** ESSOT centralizes a[...]
+**Softfact** is a cutting-edge AI-powered architectural platform designed for modern software engineering. It leverages advanced AI capabilities to streamline architectural design, planning, and governance.
 
+**Launch Status**: ✅ **Live and accessible at [https://softfact.space](https://softfact.space)**
 
+Softfact empowers teams to:
+- Design architectures with AI assistance
+- Maintain architectural integrity throughout development
+- Collaborate seamlessly between human architects and AI systems
+- Generate architectural documentation and specifications automatically
 
 ---
 
-### 2. ESSOT MCP Server — Engineering SSOT Integration
+### 2. Engineering SSOT (ESSOT) — Platform for engineering governance & intelligence
 
-A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering SSOT (ESSOT)** — a modern governance and planning wor[...]
+The **Engineering SSOT (ESSOT)** is a unified platform for engineering governance, planning, and AI-native workflows. **Now launched and accessible at [https://essot.space](https://essot.space)!**
 
-**Repository**: [(https://github.com/eecheonwu/essot-mcp-server)]
+---
+
+### 3. ESSOT MCP Server — Engineering SSOT Integration
+
+A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering SSOT (ESSOT)** — a modern governance and planning workflow.
+
+**Repository**: [eecheonwu/essot-mcp-server](https://github.com/eecheonwu/essot-mcp-server)
 
 #### What It Does
 
@@ -39,9 +51,9 @@ The **ESSOT MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Wind
 - ✅ **Framework**: Built on [FastMCP](https://github.com/jlowin/fastmcp) with Python 3.10+
 
 
-### 3. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
+### 4. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
 
-A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system[...]
+A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system for all engineering artifacts.
 
 #### Core Projects
 
@@ -63,7 +75,7 @@ Workflow framework demonstrating how to evolve features through the SSOT lifecyc
 
 #### Key Concepts
 
-- **Single Source of Truth (SSOT)**: A unified, authoritative artifact (typically a Software Requirements Document + Architecture Design Record) that serves as the reference for all engineering wo[...]
+- **Single Source of Truth (SSOT)**: A unified, authoritative artifact (typically a Software Requirements Document + Architecture Design Record) that serves as the reference for all engineering work
 - **Drift Detection**: Real-time identification of divergence between specification and implementation
 - **Automated Task Generation**: AI-driven decomposition of high-level features into executable, well-scoped tasks
 - **Human–AI Collaboration**: Frameworks enabling developers and AI agents to work seamlessly together
@@ -103,7 +115,7 @@ Python • Git • VS Code • FastMCP • FastAPI • LLM APIs (Gemini, OpenAI,
 
 ## 🔬 Mission
 
-**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and desi[...]
+**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and design through implementation, testing, and continuous improvement.
 
 ---
 
