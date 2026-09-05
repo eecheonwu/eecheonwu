@@ -9,7 +9,7 @@ Building intelligent systems for modern software engineering through agentic arc
 
 ### 1. Engineering SSOT (ESSOT) — Platform for engineering governance & intelligence
 
-The **Engineering SSOT (ESSOT)** is a unified platform for engineering governance, planning, and AI-native workflows. Heavily under development and launching soon, ESSOT centralizes a[...]
+The **Engineering SSOT (ESSOT)** is a unified platform for engineering governance, planning, and AI-native workflows. **Now launched and accessible at [https://essot.space](https://essot.space)!** ESSOT centralizes a[...]
 
 
 
@@ -123,4 +123,4 @@ Python • Git • VS Code • FastMCP • FastAPI • LLM APIs (Gemini, OpenAI,
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
