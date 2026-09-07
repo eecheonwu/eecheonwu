@@ -9,7 +9,7 @@ Building intelligent systems for modern software engineering through agentic arc
 
 ### 1. Softfact — The AI Architectural Platform
 
-**Softfact** is a cutting-edge AI-powered architectural platform designed for modern software engineering. It leverages advanced AI capabilities to streamline architectural design, planning, and governance.
+**Softfact** is a cutting-edge AI-powered architectural platform designed for modern software engineering. It leverages advanced AI capabilities to streamline architectural design, planning, and g[...]
 
 **Launch Status**: ✅ **Live and accessible at [https://softfact.space](https://softfact.space)**
 
@@ -51,9 +51,18 @@ The **ESSOT MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Wind
 - ✅ **Framework**: Built on [FastMCP](https://github.com/jlowin/fastmcp) with Python 3.10+
 
 
-### 4. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
+### 4. ESSOT Skills — Reusable agent skills for ESSOT
 
-A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system for all engineering artifacts.
+**ESSOT Skills** is a collection of reusable AI/agent skills, prompts, and integrations that make it easy for coding agents to work with the ESSOT platform. These skills include task decomposition, spec querying, synchronization helpers, and drift-detection utilities that streamline human–AI collaboration and let agents perform ESSOT-specific workflows reliably.
+
+**Repository**: [eecheonwu/essot-skills](https://github.com/eecheonwu/essot-skills)
+
+Short note: Use this repository to add, test, and share agent skills that plug into ESSOT (via MCP or HTTP). Skills are organised by capability (task generation, spec sync, validation) and include examples for popular agents and IDEs.
+
+
+### 5. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
+
+A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system[...]
 
 #### Core Projects
 
@@ -75,7 +84,7 @@ Workflow framework demonstrating how to evolve features through the SSOT lifecyc
 
 #### Key Concepts
 
-- **Single Source of Truth (SSOT)**: A unified, authoritative artifact (typically a Software Requirements Document + Architecture Design Record) that serves as the reference for all engineering work
+- **Single Source of Truth (SSOT)**: A unified, authoritative artifact (typically a Software Requirements Document + Architecture Design Record) that serves as the reference for all engineering wo[...]
 - **Drift Detection**: Real-time identification of divergence between specification and implementation
 - **Automated Task Generation**: AI-driven decomposition of high-level features into executable, well-scoped tasks
 - **Human–AI Collaboration**: Frameworks enabling developers and AI agents to work seamlessly together
@@ -115,7 +124,7 @@ Python • Git • VS Code • FastMCP • FastAPI • LLM APIs (Gemini, OpenAI,
 
 ## 🔬 Mission
 
-**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and design through implementation, testing, and continuous improvement.
+**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and desi[...]
 
 ---
 
