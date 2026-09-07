@@ -53,9 +53,9 @@ The **ESSOT MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Wind
 
 ### 4. ESSOT Skills — Reusable agent skills for ESSOT
 
-**ESSOT Skills** is a collection of reusable AI/agent skills, prompts, and integrations that make it easy for coding agents to work with the ESSOT platform. These skills include task decomposition, spec querying, synchronization helpers, and drift-detection utilities that streamline human–AI collaboration and let agents perform ESSOT-specific workflows reliably.
+**ESSOT Skills** is a reusable AI/agent skill that make it easy for coding agents to work with the ESSOT platform. The skill includes task decomposition and synchronization helpers that streamline human–AI collaboration and let agents perform ESSOT-specific workflows reliably.
 
-**Repository**: [eecheonwu/essot-skills](https://github.com/eecheonwu/essot-skills)
+**Repository**: [eecheonwu/essot-skills](https://github.com/eecheonwu/essot-skill)
 
 Short note: Use this repository to add, test, and share agent skills that plug into ESSOT (via MCP or HTTP). Skills are organised by capability (task generation, spec sync, validation) and include examples for popular agents and IDEs.
 
