@@ -5,37 +5,33 @@ Building intelligent systems for modern software engineering through agentic arc
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Platform
 
-### 1. Softfact — The AI Architectural Platform
+### 1. Engineering SSOT (ESSOT) — Platform for engineering governance & intelligence
 
-**Softfact** is a cutting-edge AI-powered architectural platform designed for modern software engineering. It leverages advanced AI capabilities to streamline architectural design, planning, and g[...]
+The **Engineering SSOT (ESSOT)** is a unified platform for engineering governance, planning, and AI-native workflows. It brings together architecture, requirements, implementation coordination, and team intelligence into a single operational system.
 
-**Launch Status**: ✅ **Live and accessible at [https://softfact.space](https://softfact.space)**
+**Launch Status**: ✅ **Live and accessible at [https://essot.space](https://essot.space)**
 
-Softfact empowers teams to:
-- Design architectures with AI assistance
-- Maintain architectural integrity throughout development
-- Collaborate seamlessly between human architects and AI systems
-- Generate architectural documentation and specifications automatically
-
----
-
-### 2. Engineering SSOT (ESSOT) — Platform for engineering governance & intelligence
-
-The **Engineering SSOT (ESSOT)** is a unified platform for engineering governance, planning, and AI-native workflows. **Now launched and accessible at [https://essot.space](https://essot.space)!**
+ESSOT enables teams to:
+- Align requirements, architecture, and implementation under one authoritative source of truth
+- Coordinate planning and delivery across distributed engineering teams
+- Use AI agents to generate tasks, validate drift, and support execution
+- Maintain governance and accountability throughout the software lifecycle
 
 ---
 
-### 3. ESSOT MCP Server — Engineering SSOT Integration
+## 🔧 ESSOT Ecosystem
 
-A **production-ready Model Context Protocol (MCP) server** that bridges local development environments with the **Engineering SSOT (ESSOT)** — a modern governance and planning workflow.
+### 2. ESSOT MCP Server — Engineering SSOT Integration
+
+A **production-ready Model Context Protocol (MCP) server** that connects local development environments with the **Engineering SSOT (ESSOT)** platform.
 
 **Repository**: [eecheonwu/essot-mcp-server](https://github.com/eecheonwu/essot-mcp-server)
 
 #### What It Does
 
-The **ESSOT MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Windsurf, Antigravity, and others) to natively interact with your ESSOT project by:
+The **ESSOT MCP Server** empowers AI coding agents (Claude Desktop, Cursor, Windsurf, Antigravity, and others) to natively interact with ESSOT by:
 
 - **Synchronizing architectural intent** between local development and cloud-based governance
 - **Maintaining a Single Source of Truth (SSOT)** across planning, design, and implementation
@@ -45,24 +41,26 @@ The **ESSOT MCP Server** empowers AI Coding Agents (Claude Desktop, Cursor, Wind
 #### Key Features
 
 - ✅ **Dual-Mode Architecture**: Stdio MCP interface for IDE agents + HTTP webhook listener for cloud-ESSOT interactions
-- ✅ **5 Core Tools**: Initialize SSOT, generate implementation/task/test, synchronize architecture
+- ✅ **Core Tools**: Initialize SSOT, generate implementation/task/test artifacts, and synchronize architecture
 - ✅ **Zero-Setup Installation**: Run via `uvx` with no manual virtual environment management
 - ✅ **IDE-Agnostic**: Works seamlessly with Claude Desktop, Antigravity, Cursor, Windsurf, and any MCP-compatible IDE
 - ✅ **Framework**: Built on [FastMCP](https://github.com/jlowin/fastmcp) with Python 3.10+
 
+---
 
-### 4. ESSOT Skills — Reusable agent skills for ESSOT
+### 3. ESSOT Skills — Reusable agent skills for ESSOT
 
-**ESSOT Skills** is a reusable AI/agent skill that make it easy for coding agents to work with the ESSOT platform. The skill includes task decomposition and synchronization helpers that streamline human–AI collaboration and let agents perform ESSOT-specific workflows reliably.
+**ESSOT Skills** is a reusable AI/agent skill library that makes it easier for coding agents to work with the ESSOT platform. The skill set includes task decomposition, synchronization helpers, and validation workflows designed to streamline human–AI engineering collaboration.
 
 **Repository**: [eecheonwu/essot-skill](https://github.com/eecheonwu/essot-skill)
 
-Short note: Use this repository to add, test, and share agent skills that plug into ESSOT (via MCP or HTTP). Skills are organised by capability (task generation, spec sync, validation) and include examples for popular agents and IDEs.
+Short note: Use this repository to add, test, and share agent skills that plug into ESSOT through MCP or HTTP integration. Skills are organized by capability, including task generation, spec synchronization, and validation.
 
+---
 
-### 5. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
+### 4. SCSE Research Programme — Single Source of Truth–Centric Software Engineering
 
-A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system[...]
+A comprehensive research program and framework for **SSOT-Centric Software Engineering (SCSE)** — an architectural methodology that uses a Single Source of Truth as the central coordinate system for all engineering artifacts.
 
 #### Core Projects
 
@@ -84,7 +82,7 @@ Workflow framework demonstrating how to evolve features through the SSOT lifecyc
 
 #### Key Concepts
 
-- **Single Source of Truth (SSOT)**: A unified, authoritative artifact (typically a Software Requirements Document + Architecture Design Record) that serves as the reference for all engineering wo[...]
+- **Single Source of Truth (SSOT)**: A unified, authoritative artifact that serves as the reference for all engineering work
 - **Drift Detection**: Real-time identification of divergence between specification and implementation
 - **Automated Task Generation**: AI-driven decomposition of high-level features into executable, well-scoped tasks
 - **Human–AI Collaboration**: Frameworks enabling developers and AI agents to work seamlessly together
@@ -124,7 +122,7 @@ Python • Git • VS Code • FastMCP • FastAPI • LLM APIs (Gemini, OpenAI,
 
 ## 🔬 Mission
 
-**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and desi[...]
+**Advance Agentic Software Engineering** by creating frameworks, tooling, and workflows that enable human–AI collaboration throughout the entire engineering lifecycle — from planning and design through implementation, governance, and continuous improvement.
 
 ---
 
@@ -144,4 +142,4 @@ Python • Git • VS Code • FastMCP • FastAPI • LLM APIs (Gemini, OpenAI,
 
 ---
 
-*Last updated: September 2026*
+*Last updated: October 2026*
