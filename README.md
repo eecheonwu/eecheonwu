@@ -27,7 +27,7 @@ ESSOT enables teams to:
 
 A **production-ready Model Context Protocol (MCP) server** that connects local development environments with the **Engineering SSOT (ESSOT)** platform.
 
-**Repository**: [eecheonwu/essot-mcp-server](https://github.com/eecheonwu/essot-mcp-server)
+**Deployed at**: [PYPI](https://pypi.org/project/essot-mcp-server/)
 
 #### What It Does
 
